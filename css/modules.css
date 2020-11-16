@@ -1,0 +1,10 @@
+#photo-template img{
+    max-width: 90%;
+    margin-left: 5%;
+    height: 350px;
+}
+/* 
+#photo-template p {
+    font-size: 1.1em;
+    padding: 2px 5% 0 5%;
+} */
